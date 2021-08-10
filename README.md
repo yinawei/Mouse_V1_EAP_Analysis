@@ -2,7 +2,7 @@ Associations between in vitro, in vivo and in silico cell classes in mouse prima
 
 Code base for mouse V1 Neurpixels EAP data analysis
 
-* Method is presented in Wei et al. (2021): ???
+* Method is presented in Wei et al. (2021): 
 
 ## Dependencies
  * Python 3.6+
